@@ -1,5 +1,7 @@
 # NativeBase KitchenSink App For Vue Native
 
+#### The app using vue-native and NativeBase UI component that works and updated to the latest React Native and expo version.
+
 This project was bootstrapped with [Vue Native Cli](https://github.com/GeekyAnts/vue-native-cli).
 
 ## Installation
